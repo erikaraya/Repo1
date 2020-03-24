@@ -3,3 +3,4 @@ Vênus
 Terra
 Marte
 Saturno
+Urano
